@@ -1,15 +1,13 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Specialist;E-Commerce+%26+Web3+Expert;Building+scalable+solutions...)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Specialist;E-Commerce+%26+Web3+Expert;Building+scalable+solutions..." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
-I'm a **Full-Stack Developer** in **Canada**, specializing in React, Next.js, and modern JavaScript ecosystems. Currently pursuing Computer Programming & Analysis at Seneca Polytechnic while delivering real-world solutions for e-commerce and blockchain projects.
+## About Me
+I'm a **Full-Stack Developer** in the **Greater Toronto Area**, specializing in React, Next.js, and modern JavaScript ecosystems. Currently pursuing Computer Programming & Analysis at Seneca Polytechnic while delivering real-world solutions for e-commerce and blockchain projects.
 
-### 🎯 What I Build
+### What I Build
 - **React Applications:** Complex SPAs with Hooks, Context API & advanced state management patterns
 - **Full-Stack Solutions:** Node.js/Express serverless functions, RESTful APIs & database integrations
 - **E-Commerce Platforms:** Interactive interfaces with payment processing & conversion optimization
@@ -42,6 +40,23 @@ I'm a **Full-Stack Developer** in **Canada**, specializing in React, Next.js, an
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=java)
+
+---
+
+## 💼 Professional Experience
+
+### **E-Commerce Developer** | Contract (Oct 2024 - Apr 2025)
+- Engineered interactive e-commerce platforms with **React.js** and modern JavaScript (ES6+)
+- Built **Node.js/Express serverless functions** for secure order processing and payment handling
+- Optimized Webpack/Babel pipelines achieving **30% bundle size reduction** through code-splitting and tree-shaking
+- Implemented **SEO/SEM optimizations** driving **40% increase in organic traffic** and **25% revenue growth**
+- Managed complex state with React Context API for maintainable, high-performance UIs
+
+### **Technical Lead** | Web3 Projects
+- **Awarded grant** from The Open Network for NFT-based smart-contract development
+- Developed **on-chain and off-chain** multi-address & asset-tracking software
+- **Ambassador & Community Lead** for The Open Network, DeDust, and xRocket
+- **Co-founded BOLTFoundation** (DAO) and led decentralized application development as Project Manager
 
 ---
 
@@ -89,8 +104,8 @@ Decentralized solution for NFT signatures implemented as smart contracts
 
 🏗️ **Full-Stack Expertise** - From React frontends to Node.js backends and database optimization  
 ⚡ **Performance-First** - Proven track record of 30%+ optimization improvements in production
-
-🔗 **Emerging Tech** - Hands-on experience with blockchain, smart contracts, Ai, and Web3 ecosystems  
+  
+🔗 **Emerging Tech** - Hands-on experience with blockchain, smart contracts, and Web3 ecosystems  
 🎓 **Continuous Learning** - Currently advancing skills in Computer Programming & Analysis at Seneca Polytechnic  
 
 ---
@@ -98,9 +113,9 @@ Decentralized solution for NFT signatures implemented as smart contracts
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Grant Recipient** - The Open Network for innovative smart-contract development
-- 👥 **Community Leadership** - Ambassador for multiple Web3 platforms 
-- 🚀 **Startup Co-Founder** - DAO with focus on decentralized applications
-- ⚙️ **Technical Excellence** - 30% bundle size reduction through advanced Webpack optimization
+- 👥 **Community Leadership** - Ambassador for multiple Web3 platforms (TON, DeDust, xRocket)
+- 🚀 **Startup Co-Founder** - BOLTFoundation DAO with focus on decentralized applications
+- ⚙️ **Technical** - 30% bundle size reduction through advanced Webpack optimization
 
 ---
 
@@ -118,8 +133,6 @@ Decentralized solution for NFT signatures implemented as smart contracts
 ---
 
 <div align="center">
-
-### 💭 *"Building scalable solutions that drive real business value"*
 
 **Currently:** Full-Stack Developer | Seneca Polytechnic Student | Web3 Innovator
 
