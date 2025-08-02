@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Roman, a full-stack developer based in the Greater Toronto Area. Currently studying Computer Programming & Analysis at Seneca Polytechnic while working on projects that span from React applications to blockchain solutions.
+I'm Roman Harnastaeu, a full-stack developer based in the Greater Toronto Area. Currently studying Computer Programming & Analysis at Seneca Polytechnic while working on projects that span from React applications to blockchain solutions.
 
 I enjoy building things that work well and solve actual problems. My focus is primarily on React and Next.js for frontend work, with Node.js and Express handling the backend side of things.
 
