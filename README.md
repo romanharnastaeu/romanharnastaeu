@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Specialist;E-Commerce+%26+Web3+Expert;Building+scalable+solutions..." alt="Typing SVG" />
-</p>
-
----
-
 ## About Me
 I'm a **Full-Stack Developer** in the **Greater Toronto Area**, specializing in React, Next.js, and modern JavaScript ecosystems. Currently pursuing Computer Programming & Analysis at Seneca Polytechnic while delivering real-world solutions for e-commerce and blockchain projects.
 
@@ -11,12 +5,12 @@ I'm a **Full-Stack Developer** in the **Greater Toronto Area**, specializing in 
 - **React Applications:** Complex SPAs with Hooks, Context API & advanced state management patterns
 - **Full-Stack Solutions:** Node.js/Express serverless functions, RESTful APIs & database integrations
 - **E-Commerce Platforms:** Interactive interfaces with payment processing & conversion optimization
-- **Performance Engineering:** Webpack optimization, code-splitting & bundle size reduction (30%+ improvements)
+- **Performance Engineering:** Webpack optimization, code-splitting & bundle size reduction 
 - **Blockchain Applications:** Smart contracts, multi-address tracking & decentralized systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
@@ -43,83 +37,64 @@ I'm a **Full-Stack Developer** in the **Greater Toronto Area**, specializing in 
 
 ---
 
-## 💼 Professional Experience
+## Featured Projects
 
-### **E-Commerce Developer** | Contract (Oct 2024 - Apr 2025)
-- Engineered interactive e-commerce platforms with **React.js** and modern JavaScript (ES6+)
-- Built **Node.js/Express serverless functions** for secure order processing and payment handling
-- Optimized Webpack/Babel pipelines achieving **30% bundle size reduction** through code-splitting and tree-shaking
-- Implemented **SEO/SEM optimizations** driving **40% increase in organic traffic** and **25% revenue growth**
-- Managed complex state with React Context API for maintainable, high-performance UIs
-
-### **Technical Lead** | Web3 Projects
-- **Awarded grant** from The Open Network for NFT-based smart-contract development
-- Developed **on-chain and off-chain** multi-address & asset-tracking software
-- **Ambassador & Community Lead** for The Open Network, DeDust, and xRocket
-- **Co-founded BOLTFoundation** (DAO) and led decentralized application development as Project Manager
-
----
-
-## 🎨 Featured Projects
-
-### 🌟 [Interactive Performance Toolkit](https://github.com/romanharnastaeu/romanharnastaeu.github.io)
-Full-stack web application combining portfolio showcase with professional-grade network diagnostics
+### **Interactive Toolkit** | [GitHub](https://github.com/romanharnastaeu/romanharnastaeu.github.io)
+Full-stack web application combining portfolio showcase with network diagnostics
 - **Tech Stack:** Vanilla JavaScript, Node.js, M-Lab NDT7 API, GitHub API
 - **Features:** Real-time speed testing, live GitHub stats, custom animations, performance metrics
 - **Performance:** Multi-endpoint fallbacks, async/await patterns, optimized resource loading
 
-### 🚀 [Blockchain Mini App](https://my-telegram-miniapp-alpha.vercel.app/) | [GitHub](https://github.com/romanharnastaeu/my-telegram-miniapp)
+### **Blockchain Mini App** | [Live Demo](https://my-telegram-miniapp-alpha.vercel.app/) | [GitHub](https://github.com/romanharnastaeu/my-telegram-miniapp)
 Redesigned and rebuilt on-chain solution as a scalable React mini-app with improved UI/UX
 - **Tech Stack:** React, Telegram Web Apps API, TON Blockchain API
 - **Features:** Real-time cryptocurrency tracking, wallet analysis, blockchain data visualization
-- **Impact:** Enhanced stability while maintaining all tracking features from the original bot
+- **Impact:** Better stability while maintaining all tracking features from the original bot
 
-### 🤖 [BOLT Telegram Bot Framework](https://github.com/romanharnastaeu/jettonbot)
+### **BOLT Telegram Bot Framework** | [GitHub](https://github.com/romanharnastaeu/jettonbot)
 Professional, modular Telegram bot framework built for the TON blockchain ecosystem
 - **Tech Stack:** Python 3.11+, python-telegram-bot, Pydantic, aiohttp
 - **Features:** Real-time price tracking, wallet analysis, dependency injection architecture
 - **Architecture:** Async/await patterns, smart caching, multi-API integration
 
-### 🛒 E-Commerce Platform (Private)
+### **E-Commerce Platform** (Private)
 React-based e-commerce solution with full payment processing
 - **Tech Stack:** React, Node.js, Express, MongoDB, Stripe API
-- **Impact:** 25% revenue increase, 40% organic traffic growth
 - **Features:** Real-time inventory, serverless order processing, mobile-responsive design
 
-### 📱 CleanFormula Mobile App (Co-Founder)
+### **Mobile App**
 On-demand service mobile application for cleaning and dry cleaning services
 - **Tech Stack:** Mobile development, Service marketplace architecture
 - **Role:** Co-founder managing both business operations and technical development
-- **Features:** Uber-like service model specialized for cleaning industry
+- **Features:** Service model specialized for cleaning industry
 
-### 🔐 SmartSign NFT Project (Co-Founder)
+### **Blockchain Document Signature Project**
 Decentralized solution for NFT signatures implemented as smart contracts
 - **Tech Stack:** Smart contracts, TON Blockchain, NFT protocols
-- **Achievement:** Received grant from TON Foundation
+- **Achievement:** Received grant from blockchain DAO
 - **Innovation:** Handshake protocol between token owners and signatories
 
 ---
 
-## 🎯 What Sets Me Apart
+## What Sets Me Apart
 
-🏗️ **Full-Stack Expertise** - From React frontends to Node.js backends and database optimization  
-⚡ **Performance-First** - Proven track record of 30%+ optimization improvements in production
-  
-🔗 **Emerging Tech** - Hands-on experience with blockchain, smart contracts, and Web3 ecosystems  
-🎓 **Continuous Learning** - Currently advancing skills in Computer Programming & Analysis at Seneca Polytechnic  
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🥇 **Grant Recipient** - The Open Network for innovative smart-contract development
-- 👥 **Community Leadership** - Ambassador for multiple Web3 platforms (TON, DeDust, xRocket)
-- 🚀 **Startup Co-Founder** - BOLTFoundation DAO with focus on decentralized applications
-- ⚙️ **Technical** - 30% bundle size reduction through advanced Webpack optimization
+**Full-Stack Expertise** - From React frontends to Node.js backends and database optimization  
+**Performance-First** - Proven track record of 30%+ optimization improvements in production  
+**Emerging Tech** - Hands-on experience with blockchain, smart contracts, and Web3 ecosystems  
+**Continuous Learning** - Currently advancing skills in Computer Programming & Analysis at Seneca Polytechnic  
 
 ---
 
-## 📫 Let's Connect
+## Achievements & Recognition
+
+- **Grant Recipient** - The Open Network for innovative smart-contract development
+- **Community Leadership** - Ambassador for multiple Web3 platforms (TON, DeDust, xRocket)
+- **Startup Co-Founder** - BOLTFoundation DAO with focus on decentralized applications
+- **Technical Excellence** - 30% bundle size reduction through advanced Webpack optimization
+
+---
+
+## Let's Connect
 
 <div align="center">
 
